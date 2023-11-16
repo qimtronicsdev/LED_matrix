@@ -1,6 +1,6 @@
 # LED_matrix
 
-This is a firmware for showing and animating an animation on an array of LEDS matrix 16x16 pixels only.
+This is firmware for showing and animating an animation on an array of LEDS matrix 16x16 pixels size only.
 Animation lists that obviously are supported by the firmware are as follows:
 1. Running text as well as controlling its speed
 1. Graphic picture in 16x16 pixels size.
