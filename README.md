@@ -37,6 +37,6 @@ Animation lists that obviously are supported by the firmware are as follows:
 <br />
 <br />
 <br />
-PS:
+PS: <br />
 1. For supporting toward this firmware information, all writing concept are referenced on following link: <br />
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#referencing-external-resources
