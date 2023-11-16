@@ -21,5 +21,5 @@ Animation lists that obviously are supported by the firmware are as follows:
 
 
 PS:
-1. for supporting this firmware information is reference on following link:
-   _ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#referencing-external-resources
+1. For supporting toward this firmware information, all writing concept are referenced on following link: <br />
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#referencing-external-resources
