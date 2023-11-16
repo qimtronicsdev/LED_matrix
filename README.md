@@ -6,7 +6,7 @@ Animation lists that obviously are supported by the firmware are as follows:
 1. Graphic picture in 16x16 pixels size.
 1. Animating a gif file animation with a maximum size of gif file is 15KBytes.
 1. Playing games
-1. And other cool stuff.
+1. And other cool stuff.<br />
 
 
 
@@ -19,7 +19,24 @@ Animation lists that obviously are supported by the firmware are as follows:
 
 
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 PS:
 1. For supporting toward this firmware information, all writing concept are referenced on following link: <br />
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#referencing-external-resources
